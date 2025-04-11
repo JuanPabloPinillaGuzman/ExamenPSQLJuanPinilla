@@ -19,9 +19,3 @@ Este proyecto incluye:
 
 ---
 
-## 🚀 Instrucciones de uso
-
-### 1. Crear la base de datos e importar tablas
-
-```bash
-psql -U tu_usuario -f db.sql
